@@ -1,2 +1,4 @@
-- pip install beautifulsoup4 
+- virtualenv --no-site-packages venv
+- source venv/bin/activate
+- pip install beautifulsoup4
 - pip install requests 
